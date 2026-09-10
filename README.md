@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # ⚡ Developer Dashboard ⚡
@@ -159,4 +158,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,50:92FE9D,100:00C9FF&height=120&section=footer"/>
 
 </div>
-```
