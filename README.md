@@ -1,79 +1,42 @@
-## 🛠️ Tech Stack
+```md
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode&perline=7" />
-</p>
+## 💻 Tech Stack
 
----
+### Languages
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs" />
 
-## 🚀 Languages & Tools
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwind,bootstrap" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,php,go,rust" />
-</p>
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,nodejs,nestjs" />
-</p>
+### Database
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,supabase,firebase" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,linux,git,github" />
-</p>
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma" />
 
----
+<br><br>
 
-## 📊 GitHub Stats
+## ⚡ Technologies
 
-<p align="center">
-  <img height="170"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
-  />
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 
-  <img height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
-  />
-</p>
+<br>
 
 ---
 
-## 📈 Activity Graph
+### 「 Code • Build • Learn • Repeat 」
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"
-  />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge"
-  />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" width="100%" />
-</p>
+</div>
+```
