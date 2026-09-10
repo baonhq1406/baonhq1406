@@ -54,9 +54,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=baonhq1406&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baonhq1406&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=92FE9D&currStreakLabel=00F2FE" />
+<img src="https://streak-stats.demolab.com?user=baonhq1406&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00C9FF&line=92FE9D&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=baonhq1406&bg_color=0D1117&color=00C9FF&line=92FE9D&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -86,7 +86,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=baonhq1406&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" />
 
 </div>
 
@@ -111,19 +111,6 @@
 
 ---
 
-## 📦 Current Ecosystem
-
-<div align="center">
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-26.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Desktop-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-Development-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
 ## ⚡ Main Technologies
 
 <div align="center">
@@ -139,21 +126,17 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 👁 Profile Views
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://komarev.com/ghpvc/?username=baonhq1406&label=PROFILE+VIEWS&color=00c9ff&style=for-the-badge" />
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00c9ff&style=for-the-badge" />
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,50:92FE9D,100:00C9FF&height=120&section=footer"/>
 
