@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 ## 💻 Tech Stack
@@ -39,4 +38,3 @@
 ### 「 Code • Build • Learn • Repeat 」
 
 </div>
-```
